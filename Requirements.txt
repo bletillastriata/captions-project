@@ -1,0 +1,10 @@
+imgaug
+matplotlib
+multiprocessing.pool
+numpy
+os
+pandas
+random
+requests
+shutil
+skimage.io
